@@ -1,0 +1,38 @@
+.navbar-brand h1{
+  margin-left:20px;
+  color: white;
+}
+#nav-list li{
+   margin-top:3px;
+   background-color:white;
+   color: black;
+   text-align: center;
+}
+#nav-list li:hover{
+	background-color:lightgrey;
+	color: black;
+}
+#navlist li a{
+  font-size:25px;
+  color:black;
+  font-weight: bolder;
+}
+
+#btn{
+	background-color: white;
+}
+.item{
+	background-color: lightgrey;
+	margin-top:10px;
+	border:2px solid black;
+}
+.item h1{
+	text-align: center;
+	font-size: 25px;
+}
+.item p{
+	padding: 10px;
+}
+.container-fluid h1{
+   text-align: center;
+}
