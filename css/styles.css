@@ -27,12 +27,8 @@
 	border:2px solid black;
 }
 .item h1{
-	text-align: center;
 	font-size: 25px;
 }
 .item p{
 	padding: 10px;
-}
-.container-fluid h1{
-   text-align: center;
 }
